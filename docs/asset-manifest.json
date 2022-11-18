@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e6c13ad2.css",
+    "main.js": "./static/js/main.e72592f3.js",
+    "static/media/Sun.jpeg": "./static/media/Sun.46c35bcf79c484bd8120.jpeg",
+    "static/media/Fortune.jpeg": "./static/media/Fortune.ab39a64d5619c34d7d56.jpeg",
+    "static/media/Chariot.jpeg": "./static/media/Chariot.8b0f3ec2171e54fed736.jpeg",
+    "static/media/Death.jpeg": "./static/media/Death.e2c1b9d155e386530093.jpeg",
+    "static/media/Councillor.jpeg": "./static/media/Councillor.162b1b9d49db2dfc877f.jpeg",
+    "static/media/Lovers.jpeg": "./static/media/Lovers.3df9bb4b1bb505659f03.jpeg",
+    "static/media/Tower.jpeg": "./static/media/Tower.52677d94c374bf3f66e3.jpeg",
+    "static/media/Priestess.jpeg": "./static/media/Priestess.c147abe13067136bfecd.jpeg",
+    "static/media/Hierophant.jpeg": "./static/media/Hierophant.5bd9c15e7603c5526813.jpeg",
+    "static/media/Hanged.jpeg": "./static/media/Hanged.2bc6b41aa42e793c4119.jpeg",
+    "static/media/Devil.jpeg": "./static/media/Devil.667bb688cd102bd6bccd.jpeg",
+    "static/media/Faith.jpeg": "./static/media/Faith.92838db5d94e479f05aa.jpeg",
+    "static/media/Hermit.jpeg": "./static/media/Hermit.ffa2cca4e70bc36d4ee6.jpeg",
+    "static/media/Temperance.jpeg": "./static/media/Temperance.2bf23454b691e3f660b6.jpeg",
+    "static/media/Justice.jpeg": "./static/media/Justice.44abac630bc8a266bef8.jpeg",
+    "static/media/Moon.jpeg": "./static/media/Moon.0fa1e54383524e102a44.jpeg",
+    "static/media/Emperor.jpeg": "./static/media/Emperor.11025b6c782f2f6fc7ca.jpeg",
+    "static/media/Empress.jpeg": "./static/media/Empress.6d82e09dd7629165fc72.jpeg",
+    "static/media/Star.jpeg": "./static/media/Star.99605b6bda07e6fc5bd8.jpeg",
+    "index.html": "./index.html",
+    "main.e6c13ad2.css.map": "./static/css/main.e6c13ad2.css.map",
+    "main.e72592f3.js.map": "./static/js/main.e72592f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e72592f3.js"
+  ]
+}
